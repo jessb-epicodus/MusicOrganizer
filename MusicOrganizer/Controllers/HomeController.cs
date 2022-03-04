@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using ShippingCo.Models;
+using MusicOrganizer.Models;
 
 namespace MusicOrganizer.Controllers {
   public class HomeController : Controller {
